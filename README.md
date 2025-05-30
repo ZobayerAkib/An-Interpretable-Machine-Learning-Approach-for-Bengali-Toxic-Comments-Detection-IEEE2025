@@ -76,9 +76,9 @@ If you find this work useful, please consider citing us:
   booktitle={2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)}, 
   title={An Interpretable Machine Learning Approach for Bengali Toxic Comments Detection}, 
   year={2025},
+  volume={},
+  number={},
   pages={1-6},
-  keywords={Bengali Toxic Comment; Bangla Cyberbullying; Bangla Hate Speech; TF-IDF; Machine Learning; SVM; Explainable AI (XAI); LIME},
-  doi={10.1109/ECCE64574.2025.11014029}
-}
-
+  keywords={Training;Support vector machines;Analytical models;Accuracy;Explainable AI;Pipelines;Hate speech;Stochastic processes;Predictive models;Feature extraction;Bengali Toxic Comment;Bangla Cyberbullying;Bangla Hate Speech;TF-IDF;Machine Learning;SVM;Explainable AI (XAI);LIME},
+  doi={10.1109/ECCE64574.2025.11014029}}
 
