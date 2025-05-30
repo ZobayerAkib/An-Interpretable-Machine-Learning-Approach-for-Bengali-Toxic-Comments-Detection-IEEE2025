@@ -1,8 +1,7 @@
 # 🧠 An Interpretable Machine Learning Approach for Bengali Toxic Comments Detection
 
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FECCE64574.2025.11014029-blue)](https://doi.org/10.1109/ECCE64574.2025.11014029)
-[![Conference and Paper Link](https://img.shields.io/badge/Presented%20At-ECCE%202025-orange)](https://www.researchgate.net/publication/392212652_An_Interpretable_Machine_Learning_Approach_for_Bengali_Toxic_Comments_Detection)
-[![License: MIT](https://img.shields.io/github/license/ZobayerAkib/An-Interpretable-Machine-Learning-Approach-for-Bengali-Toxic-Comments-Detection-IEEE2025)](./LICENSE)
+[![Conference](https://img.shields.io/badge/Presented%20At-ECCE%202025-orange)](https://www.researchgate.net/publication/392212652_An_Interpretable_Machine_Learning_Approach_for_Bengali_Toxic_Comments_Detection)
 [![Code Status](https://img.shields.io/badge/Code-Available-green)](https://github.com/ZobayerAkib/An-Interpretable-Machine-Learning-Approach-for-Bengali-Toxic-Comments-Detection-IEEE2025)
 
 > 🔍 A Machine Learning pipeline for detecting Bengali toxic and bullying comments, enriched with **Explainable AI (XAI)** using **LIME** for model transparency and interpretability.
