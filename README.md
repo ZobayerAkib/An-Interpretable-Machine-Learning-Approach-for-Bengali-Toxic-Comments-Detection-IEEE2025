@@ -54,6 +54,7 @@ We integrated **LIME** to explain how our classifier made specific predictions â
 > ğŸŒ Transparency = Trust.
 
 ![lime-example](https://raw.githubusercontent.com/ZobayerAkib/An-Interpretable-Machine-Learning-Approach-for-Bengali-Toxic-Comments-Detection-IEEE2025/main/lime1d1.PNG)
+![lime-example](https://raw.githubusercontent.com/ZobayerAkib/An-Interpretable-Machine-Learning-Approach-for-Bengali-Toxic-Comments-Detection-IEEE2025/main/lime2d2.PNG)
 
 ---
 
